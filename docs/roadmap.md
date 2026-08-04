@@ -1,6 +1,6 @@
 ✓ Project skeleton
 
-✓ Launcher
+□ Launcher
 
 □ Navigation manager
 

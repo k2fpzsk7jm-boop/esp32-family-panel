@@ -1,15 +1,41 @@
-✓ Project skeleton
+# Project Roadmap
 
-□ Launcher
+## Version 0.1 - Framework Foundation
 
-□ Navigation manager
+Goals:
 
-□ Theme manager
+- Initialize hardware
+- Start LVGL
+- Create application framework
+- Build launcher
+- Implement navigation
 
-□ Chore tracker
 
-□ Rewards
+## Version 0.2 - Chore Tracker
 
-□ Weather
+Goals:
 
-□ Flight tracker
+- Multiple children
+- Chores
+- Points
+- Rewards
+- Persistent storage
+
+
+## Version 0.3 - Family Features
+
+Goals:
+
+- Leaderboards
+- Statistics
+- Themes
+
+
+## Version 0.4 - Connectivity
+
+Goals:
+
+- WiFi
+- MQTT
+- OTA updates
+- Multi-panel synchronization
